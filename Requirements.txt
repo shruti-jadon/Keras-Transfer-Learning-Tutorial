@@ -1,0 +1,4 @@
+System: Ubuntu (if possible) else just shift the input/pre-trained-models to keras/models/*
+
+Keras 2.0 or above
+Tensorflow 14.0 or above
